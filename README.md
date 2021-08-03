@@ -1,4 +1,4 @@
-# kelly_elmore_illustrations
+# Kelly Elmore Illustrations
 
 ![Muni Stop Illustration by Kelly Elmore](https://raw.githubusercontent.com/ccsf-math/kelly_elmore_illustrations/main/muni.svg)
 
